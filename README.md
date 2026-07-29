@@ -16,24 +16,3 @@ pipelines
 testing (AWS)
  Ask me about manual testing, Selenium WebDriver, API testing, or SDLC/Agile
 practices
-
-Tech & Tools
-Testing
-Languages
-Platforms & Practices
-
-Featured Projects
-Project Description
-<p align="center">
- Detail-oriented QA professional with a Software Engineering background, focused on building
- reliable, well-tested software through manual and automated testing.
-</p>
-<p align="center">
-selenium-testautomation-framework
-End-to-end UI automation suite (Page Object Model) with
-pytest, headless CI runs via GitHub Actions
-
-GitHub Stats
- Get in Touch
-norahksh33@gmail.com
-[LinkedIn](https://www.linkedin.com/in/norahkalshdoukhi/)
