@@ -6,8 +6,6 @@
  reliable, well-tested software through manual and automated testing.
 </p>
 
-<p align="center">
- <a href="https://linkedin.com/in/norah-k-alshdoukhi"><img src="https://img.shields.io/badge <a href="mailto:norahksh33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?s</p>
 
 About Me
  B.Sc. in Software Engineering — University of Hail
